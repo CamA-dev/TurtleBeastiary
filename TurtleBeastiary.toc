@@ -1,0 +1,19 @@
+## Interface: 11200
+## Title: |ccc04B530Turtle|cffffffffBeastiary
+## Author: SirCama
+## Notes: A Tooltip extension for Mob abilities
+## Version: GIT
+## Dependencies: GetSpellInfoVanilla
+
+Boot.lua
+db.lua
+Utils.lua
+Environment.lua
+Infrastructure\GameAPI.lua
+Domain\Ability.lua
+Domain\MobLevel.lua
+Application\ApplicationService.lua
+Presentation\Utils.lua
+Presentation\TooltipInterface.lua
+Presentation\Drawers\AbilityDrawer.lua
+Presentation\TooltipController.lua
