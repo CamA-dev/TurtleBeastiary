@@ -19,7 +19,7 @@ It's my first addon and first Lua Project... So there is much to learn :)
 2. Copy the "GetSpellInfoVanilla-main" folder to `<WoW>/Interface/AddOns` and rename it to "GetSpellInfoVanilla"
 3. (Re)start WoW
 
-#Thx
+## Thx
 Schaka for the Addon GetSpellInfoVanilla
 
 
